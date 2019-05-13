@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Instant Games",
+"dataUrl": "5_webGLTemplate.data.unityweb",
+"wasmCodeUrl": "5_webGLTemplate.wasm.code.unityweb",
+"wasmFrameworkUrl": "5_webGLTemplate.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "5_webGLTemplate.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
