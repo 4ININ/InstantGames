@@ -1,0 +1,19 @@
+{
+"companyName": "UNL",
+"productName": "Instant Games",
+"productVersion": "0.1.17",
+"dataUrl": "CardGame_prototype_24_webGLTemplate.data.unityweb",
+"asmCodeUrl": "CardGame_prototype_24_webGLTemplate.asm.code.unityweb",
+"asmMemoryUrl": "CardGame_prototype_24_webGLTemplate.asm.memory.unityweb",
+"asmFrameworkUrl": "CardGame_prototype_24_webGLTemplate.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "CardGame_prototype_24_webGLTemplate.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.8f1"
+}
