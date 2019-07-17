@@ -1,0 +1,14 @@
+{
+"companyName": "UNL",
+"productName": "Instant Games",
+"dataUrl": "Instant1_webGL_28_MVP.data.unityweb",
+"wasmCodeUrl": "Instant1_webGL_28_MVP.wasm.code.unityweb",
+"wasmFrameworkUrl": "Instant1_webGL_28_MVP.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Instant1_webGL_28_MVP.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
